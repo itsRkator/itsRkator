@@ -30,7 +30,9 @@
   
 
   <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-  ![Getup, Code, Eat & Sleep](https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif)
+<div>
+  <img src="https://github.com/itsRkator/profile/blob/main/codeEatSleepCode.gif" src="Code Eat Sleep Code" />
+ </div>
 
 
 
