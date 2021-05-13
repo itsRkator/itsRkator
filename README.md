@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi👋, <b>I'm Rohitash Kator</b>
+  Hi👋, <b><em>Welcome</em></b>.
 </h1>
 <div>
   <img width="100%" src="https://github.com/itsRkator/profile/blob/main/rohitashIntro.gif" src="Code Eat Sleep Code" />
