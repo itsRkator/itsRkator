@@ -102,16 +102,16 @@
 
 
 <p align='center'>
-<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
+	<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=itsRkator.visitor-badge">
  <p/>
+ 
+ ***
 <div align="center">
-	<br>
 	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
-		<img src="follower.svg" width="800" height="140">
+		<img src="follower.svg" width="100%" height="140">
 	</a>
 </div>
 
-## Stargazers
-
-[![Stargazers repo roster for @itsRkator/itsRkator](https://reporoster.com/stars/itsRkator/itsRkator)](https://github.com/itsRkator/itsRkator/stargazers)
+- ## Stargazers
+	[![Stargazers repo roster for @itsRkator/itsRkator](https://reporoster.com/stars/itsRkator/itsRkator)](https://github.com/itsRkator/itsRkator/stargazers)
 
