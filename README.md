@@ -40,7 +40,7 @@
 - ## Skills:
   <div>
     <a href="https://www.angular.io/" target="_blank">
-      <img alt="Angular" src="https://github.com/itsRkator/profile/blob/main/angularjs-original.svg" alt="Angular Logo" width="30" height="30"/>
+      <img alt="Angular" src="https://github.com/itsRkator/profile/blob/main/angularjs-original.svg" alt="Angular Logo" width="30" height="30"/><br>
     </a>
     <a href="https://www.learncpp.com/" target="_blank">
       <img src="https://github.com/itsRkator/profile/blob/main/cplusplus-original.svg" alt="C++ Logo" width="30" height="30"/>
