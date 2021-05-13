@@ -24,19 +24,14 @@
 
 - ## 📫 Reach me at:<hr>
   <!-- links to social media icons -->
-    [![alt text][1.1]][1]  
-    [![alt text][2.1]][2]  
-    [![alt text][3.1]][3]  
+  [![linkedin badge](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
+  [![twitter badge](https://img.shields.io/badge/twitter-@itsRkator-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/itsRkator)
+  [![facebook badge](https://img.shields.io/badge/facebook-@itsRkator-1877f2?style=flat-square&logo=facebook)](https://facebook.com/itsRkator)
+  [![instagram badge](https://img.shields.io/badge/instagram-@itsRkator-c32aa3?style=flat-square&logo=instagram)](https://instagram.com/itsRkator)
+  ![](https://visitor-badge.glitch.me/badge?page_id=itsRkator.itsRkator)
 
-  <!-- icons with padding -->
-  [1.1]: http://i.imgur.com/0o48UoR.png "Rohitash's Github Profile"
-  [2.1]: http://i.imgur.com/P3YfQoD.png "Rohitash's Facebook Profile"
-  [3.1]: http://i.imgur.com/tXSoThF.png "Rohitash's Twitter Profile"
-
-  <!-- links to your social media accounts -->
-  [1]: https://github.com/itsrkator
-  [2]: https://www.facebook.com/itsrkator
-  [3]: https://twitter.com/itsrkator
+*** 
+<img src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
   
 
   <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
