@@ -9,13 +9,18 @@
 
 - ## About me: 
     - I'm Rohitash Kator, Student at [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) in the department of Computer Science and Engineering. I develop to enhance the technology. I love to play with code and like to solve challenging problems. Wanna know more, please visiat [My Profile](https://itsRkator.github.io). I   like to connect via [Linkedin](https://www.linkedin.com/in/itsRkator/).
+    - ⚡ Fun facts: Play cricket, Gardening, Travelling & Bike Riding.
+    - Technical Member at <b>Google Developers Club</b>, NIT Andhra Pradesh.
  
  ***
 - ## Skills:
   <div style="display: block; color: white;">
     <a href="https://www.angular.io/" target="_blank">
       <img alt="Angular" src="https://github.com/itsRkator/itsRkator/blob/main/angularjs-original.svg" alt="Angular Logo" width="30" height="30"/>
-    </a> 
+    </a>
+	  <a href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp" target="_blank">
+      <img alt="BootStrap" src="https://github.com/itsRkator/itsRkator/blob/main/bootstrap-plain-wordmark.svg" alt="Angular Logo" width="30" height="30"/>
+    </a>
     <a href="https://www.learncpp.com/" target="_blank">
       <img src="https://github.com/itsRkator/itsRkator/blob/main/cplusplus-original.svg" alt="C++ Logo" width="30" height="30"/>
     </a>
