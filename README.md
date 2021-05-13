@@ -79,8 +79,9 @@
       <img src="https://github.com/itsRkator/profile/blob/main/vuejs-original.svg" alt="VueJS" width="30" height="30"/>
     </a>
 </div>
-***
 
+
+***
 - ## 📫 Reach me at:
   <!-- links to social media icons -->
   [![linkedin badge](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
