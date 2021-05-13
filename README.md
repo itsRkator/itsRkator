@@ -17,52 +17,23 @@
 	
 	| Technology | Level |
 	| --- | --- |
+	| <a href="https://www.angular.io/" target="_blank"><img alt="Angular" src="https://github.com/itsRkator/itsRkator/blob/main/angularjs-original.svg" alt="Angular Logo" width="30" height="30"/></a> | ![50%](https://progress-bar.dev/50) |
+	| <a href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp" target="_blank"><img alt="BootStrap" src="https://github.com/itsRkator/itsRkator/blob/main/bootstrap-plain-wordmark.svg" alt="Angular Logo" width="30" height="30"/></a>| ![50%](https://progress-bar.dev/50) |
+	| <a href="https://www.learncpp.com/" target="_blank"><img src="https://github.com/itsRkator/itsRkator/blob/main/cplusplus-original.svg" alt="C++ Logo" width="30" height="30"/></a> | ![50%](https://progress-bar.dev/50) |
+	| <a href="https://www.w3schools.com/html/default.asp" target="_blank"><img src="https://github.com/itsRkator/itsRkator/blob/main/html5-original.svg" alt="gcp" width="30" height="30"/></a> | ![50%](https://progress-bar.dev/50) |
+	| <a href="https://www.w3schools.com/css/default.asp" target="_blank"><img src="https://github.com/itsRkator/itsRkator/blob/main/css3-original.svg" alt="CSS3" width="30" height="30"/></a> | ![50%](https://progress-bar.dev/50) |
+	| <a href="https://github.com/itsRkator" target="_blank"><img src="https://github.com/itsRkator/itsRkator/blob/main/github-original-wordmark.svg" alt="Github" width="30" height="30"/></a> | ![50%](https://progress-bar.dev/50) |
+	| <a href="https://www.java.com" target="_blank"><img src="https://github.com/itsRkator/itsRkator/blob/main/java-original.svg" alt="Java" width="30" height="30"/></a> | ![50%](https://progress-bar.dev/50) |
+	| <a href="https://javascript.info/" target="_blank"><img src="https://github.com/itsRkator/itsRkator/blob/main/javascript-original.svg" alt="JavaScript" width="30" height="30"/></a> | ![50%](https://progress-bar.dev/50) |
+	| <a href="https://www.mongodb.com/" target="_blank"><img src="https://github.com/itsRkator/itsRkator/blob/main/mongodb-original.svg" alt="MongoDB" width="30" height="30"/></a> | ![50%](https://progress-bar.dev/50) |
+	| <a href="https://www.w3schools.com/sql/default.asp" target="_blank"><img src="https://github.com/itsRkator/itsRkator/blob/main/mysql-original.svg" alt="MySQL" width="30" height="30"/></a> | ![50%](https://progress-bar.dev/50) |
+	| <a href="https://nodejs.org/" target="_blank"><img src="https://github.com/itsRkator/itsRkator/blob/main/nodejs-original.svg" alt="NodeJS" width="30" height="30"/></a> | ![50%](https://progress-bar.dev/50) |
+	| <a href="https://www.python.org/" target="_blank"><img src="https://github.com/itsRkator/itsRkator/blob/main/python-original.svg" alt="Python" width="30" height="30"/></a> | ![50%](https://progress-bar.dev/50) |
+	| <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/itsRkator/itsRkator/blob/main/typescript-original.svg" alt="TypeScript" width="30" height="30"/></a> | ![50%](https://progress-bar.dev/50) |
+	| <a href="https://vuejs.org/" target="_blank"><img src="https://github.com/itsRkator/itsRkator/blob/main/vuejs-original.svg" alt="VueJS" width="30" height="30"/></a> | ![50%](https://progress-bar.dev/50) |
 
-
-	<div style="display: block; color: white;">
-    <a href="https://www.angular.io/" target="_blank">
-      <img alt="Angular" src="https://github.com/itsRkator/itsRkator/blob/main/angularjs-original.svg" alt="Angular Logo" width="30" height="30"/>
-    </a>
-		<a href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp" target="_blank">
-      <img alt="BootStrap" src="https://github.com/itsRkator/itsRkator/blob/main/bootstrap-plain-wordmark.svg" alt="Angular Logo" width="30" height="30"/>
-    </a>
-    <a href="https://www.learncpp.com/" target="_blank">
-      <img src="https://github.com/itsRkator/itsRkator/blob/main/cplusplus-original.svg" alt="C++ Logo" width="30" height="30"/>
-    </a>
-    <a href="https://www.w3schools.com/html/default.asp" target="_blank">
-      <img src="https://github.com/itsRkator/itsRkator/blob/main/html5-original.svg" alt="gcp" width="30" height="30"/>
-    </a>
-    <a href="https://www.w3schools.com/css/default.asp" target="_blank">
-      <img src="https://github.com/itsRkator/itsRkator/blob/main/css3-original.svg" alt="CSS3" width="30" height="30"/>
-    </a>
-    <a href="https://github.com/itsRkator" target="_blank">
-      <img src="https://github.com/itsRkator/itsRkator/blob/main/github-original-wordmark.svg" alt="Github" width="30" height="30"/>
-    </a>
-    <a href="https://www.java.com" target="_blank">
-      <img src="https://github.com/itsRkator/itsRkator/blob/main/java-original.svg" alt="Java" width="30" height="30"/>
-    </a>
-    <a href="https://javascript.info/" target="_blank">
-      <img src="https://github.com/itsRkator/itsRkator/blob/main/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://github.com/itsRkator/itsRkator/blob/main/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
-    </a>
-    <a href="https://www.w3schools.com/sql/default.asp" target="_blank">
-      <img src="https://github.com/itsRkator/itsRkator/blob/main/mysql-original.svg" alt="MySQL" width="30" height="30"/>
-    </a>
-    <a href="https://nodejs.org/" target="_blank">
-      <img src="https://github.com/itsRkator/itsRkator/blob/main/nodejs-original.svg" alt="NodeJS" width="30" height="30"/>
-    </a>
-    <a href="https://www.python.org/" target="_blank">
-      <img src="https://github.com/itsRkator/itsRkator/blob/main/python-original.svg" alt="Python" width="30" height="30"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://github.com/itsRkator/itsRkator/blob/main/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
-    </a>
-    <a href="https://vuejs.org/" target="_blank">
-      <img src="https://github.com/itsRkator/itsRkator/blob/main/vuejs-original.svg" alt="VueJS" width="30" height="30"/>
-    </a>
-    <hr>
+***
+<div style="display: block; color: white;">
     <img src="https://github.com/itsRkator/itsRkator/blob/main/codeEatSleepCode.gif" alt="Code Eat Sleep Code" width="100%" />
 </div>
 
