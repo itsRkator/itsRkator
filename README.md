@@ -3,20 +3,22 @@
 </h1>
 <div>
   <img width="100%" src="https://github.com/itsRkator/profile/blob/main/rohitashIntro.gif" src="Code Eat Sleep Code" />
- </div>
+</div>
  
  
-
+<!--
 ![Twitter Follow](https://img.shields.io/twitter/follow/itsRkator?style=social)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=itsRkaotr&label=Profile%20views&color=0e75b6&style=flat" alt="itsRkator" />
 </p>
 
+
 - ## Read my blogs:
   <a href="https://dev.to/itsrkator">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rohitash Kator's DEV Community Profile" height="30" width="30">
   </a>
+  -->
 
 - ## 📫 Reach me at:<hr>
   <!-- links to social media icons -->
