@@ -1,57 +1,59 @@
-<h1 align="center">
-  Hi👋, <b><em>Welcome</em></b>.
-</h1>
+<div>
+  <h1 align="center">
+    Hi👋, <b><em>Welcome to my GitHub Profile</em></b>.
+  </h1>
+</div>
 <div>
   <img width="100%" src="https://github.com/itsRkator/profile/blob/main/rohitashIntro.gif" src="Code Eat Sleep Code" />
 </div>
 
 - ## About me: 
-    - I'm Rohitash Kator, Student at [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) in the department of Computer Science and Engineering. I         develop to engance the technology. I love to play with code and like to solve challenging problems. Wanna know more, please visiat [My Profile](https://itsRkator.github.io). I   like to connect via [Linkedin](https://www.linkedin.com/in/itsRkator/).
+    - I'm Rohitash Kator, Student at [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) in the department of Computer Science and Engineering. I develop to enhance the technology. I love to play with code and like to solve challenging problems. Wanna know more, please visiat [My Profile](https://itsRkator.github.io). I   like to connect via [Linkedin](https://www.linkedin.com/in/itsRkator/).
  
  ***
 - ## Skills:
   <div style="display: block; color: white;">
     <a href="https://www.angular.io/" target="_blank">
-      <img alt="Angular" src="https://github.com/itsRkator/profile/blob/main/angularjs-original.svg" alt="Angular Logo" width="30" height="30"/>
+      <img alt="Angular" src="https://github.com/itsRkator/itsRkator/blob/main/angularjs-original.svg" alt="Angular Logo" width="30" height="30"/>
     </a> 
     <a href="https://www.learncpp.com/" target="_blank">
-      <img src="https://github.com/itsRkator/profile/blob/main/cplusplus-original.svg" alt="C++ Logo" width="30" height="30"/>
+      <img src="https://github.com/itsRkator/itsRkator/blob/main/cplusplus-original.svg" alt="C++ Logo" width="30" height="30"/>
     </a>
     <a href="https://www.w3schools.com/html/default.asp" target="_blank">
-      <img src="https://github.com/itsRkator/profile/blob/main/html5-original.svg" alt="gcp" width="30" height="30"/>
+      <img src="https://github.com/itsRkator/itsRkator/blob/main/html5-original.svg" alt="gcp" width="30" height="30"/>
     </a>
     <a href="https://www.w3schools.com/css/default.asp" target="_blank">
-      <img src="https://github.com/itsRkator/profile/blob/main/css3-original.svg" alt="CSS3" width="30" height="30"/>
+      <img src="https://github.com/itsRkator/itsRkator/blob/main/css3-original.svg" alt="CSS3" width="30" height="30"/>
     </a>
     <a href="https://github.com/itsRkator" target="_blank">
-      <img src="https://github.com/itsRkator/profile/blob/main/github-original-wordmark.svg" alt="Github" width="30" height="30"/>
+      <img src="https://github.com/itsRkator/itsRkator/blob/main/github-original-wordmark.svg" alt="Github" width="30" height="30"/>
     </a>
     <a href="https://www.java.com" target="_blank">
-      <img src="https://github.com/itsRkator/profile/blob/main/java-original.svg" alt="Java" width="30" height="30"/>
+      <img src="https://github.com/itsRkator/itsRkator/blob/main/java-original.svg" alt="Java" width="30" height="30"/>
     </a>
     <a href="https://javascript.info/" target="_blank">
-      <img src="https://github.com/itsRkator/profile/blob/main/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+      <img src="https://github.com/itsRkator/itsRkator/blob/main/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
     </a>
     <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://github.com/itsRkator/profile/blob/main/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
+      <img src="https://github.com/itsRkator/itsRkator/blob/main/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
     </a>
     <a href="https://www.w3schools.com/sql/default.asp" target="_blank">
-      <img src="https://github.com/itsRkator/profile/blob/main/mysql-original.svg" alt="MySQL" width="30" height="30"/>
+      <img src="https://github.com/itsRkator/itsRkator/blob/main/mysql-original.svg" alt="MySQL" width="30" height="30"/>
     </a>
     <a href="https://nodejs.org/" target="_blank">
-      <img src="https://github.com/itsRkator/profile/blob/main/nodejs-original.svg" alt="NodeJS" width="30" height="30"/>
+      <img src="https://github.com/itsRkator/itsRkator/blob/main/nodejs-original.svg" alt="NodeJS" width="30" height="30"/>
     </a>
     <a href="https://www.python.org/" target="_blank">
-      <img src="https://github.com/itsRkator/profile/blob/main/python-original.svg" alt="Python" width="30" height="30"/>
+      <img src="https://github.com/itsRkator/itsRkator/blob/main/python-original.svg" alt="Python" width="30" height="30"/>
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://github.com/itsRkator/profile/blob/main/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
+      <img src="https://github.com/itsRkator/itsRkator/blob/main/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
     </a>
     <a href="https://vuejs.org/" target="_blank">
-      <img src="https://github.com/itsRkator/profile/blob/main/vuejs-original.svg" alt="VueJS" width="30" height="30"/>
+      <img src="https://github.com/itsRkator/itsRkator/blob/main/vuejs-original.svg" alt="VueJS" width="30" height="30"/>
     </a>
     <hr>
-    <img src="https://github.com/itsRkator/profile/blob/main/codeEatSleepCode.gif" alt="Code Eat Sleep Code" width="100%" />
+    <img src="https://github.com/itsRkator/itsRkator/blob/main/codeEatSleepCode.gif" alt="Code Eat Sleep Code" width="100%" />
 </div>
 
 
@@ -81,3 +83,8 @@
 - ## Stargazers
 	[![Stargazers repo roster for @itsRkator/itsRkator](https://reporoster.com/stars/itsRkator/itsRkator)](https://github.com/itsRkator/itsRkator/stargazers)
 
+<div align="center">
+	<h1>
+		Thenks for Visiting. See you soon.
+	</h1>
+</div>
