@@ -31,7 +31,7 @@
   ![](https://visitor-badge.glitch.me/badge?page_id=itsRkator.itsRkator)
 
 *** 
-<img src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
   
 
   <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
