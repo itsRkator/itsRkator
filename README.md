@@ -26,7 +26,7 @@
 				</a>
 			</td>
 			<td width="50%">
-				<img src="https://progress-bar.dev/45/?width=400" alt="Progress Bar">
+				<img src="https://progress-bar.dev/70/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 		<tr width="100%">
@@ -106,7 +106,7 @@
 				</a>
 			</td>
 			<td>
-				<img src="https://progress-bar.dev//50/?width=400" alt="Progress Bar">
+				<img src="https://progress-bar.dev//70/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 		<tr width="100%">
