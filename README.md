@@ -24,15 +24,7 @@
 
 
 
-- ## 📫 Reach me at:
-  <!-- links to social media icons -->
-  [![linkedin badge](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
-  [![twitter badge](https://img.shields.io/badge/twitter-@itsRkator-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/itsRkator)
-  [![facebook badge](https://img.shields.io/badge/facebook-@itsRkator-1877f2?style=flat-square&logo=facebook)](https://facebook.com/itsRkator)
-  [![instagram badge](https://img.shields.io/badge/instagram-@itsRkator-c32aa3?style=flat-square&logo=instagram)](https://instagram.com/itsRkator)
-  ![](https://visitor-badge.glitch.me/badge?page_id=itsRkator.itsRkator)
 
-*** 
 
   
 
@@ -87,6 +79,15 @@
       <img src="https://github.com/itsRkator/profile/blob/main/vuejs-original.svg" alt="VueJS" width="30" height="30"/>
     </a>
 </div>
+***
+
+- ## 📫 Reach me at:
+  <!-- links to social media icons -->
+  [![linkedin badge](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
+  [![twitter badge](https://img.shields.io/badge/twitter-@itsRkator-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/itsRkator)
+  [![facebook badge](https://img.shields.io/badge/facebook-@itsRkator-1877f2?style=flat-square&logo=facebook)](https://facebook.com/itsRkator)
+  [![instagram badge](https://img.shields.io/badge/instagram-@itsRkator-c32aa3?style=flat-square&logo=instagram)](https://instagram.com/itsRkator)
+  ![](https://visitor-badge.glitch.me/badge?page_id=itsRkator.itsRkator)
 
 ***
 <p>
