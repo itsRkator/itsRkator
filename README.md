@@ -30,7 +30,7 @@
   
 
   <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<div>
+<div float="right">
   <img src="https://github.com/itsRkator/profile/blob/main/codeEatSleepCode.gif" src="Code Eat Sleep Code" />
  </div>
 
