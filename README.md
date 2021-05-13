@@ -52,7 +52,7 @@
       <img src="https://github.com/itsRkator/profile/blob/main/css3-original.svg" alt="CSS3" width="30" height="30"/>
     </a>
     <a href="https://github.com/itsRkator" target="_blank">
-      <img src="https://github.com/itsRkator/profile/blob/main/github-original.svg" alt="Github" width="30" height="30"/>
+      <img src="https://github.com/itsRkator/profile/blob/main/github-original-wordmark.svg" alt="Github" width="30" height="30"/>
     </a>
     <a href="https://www.java.com" target="_blank">
       <img src="https://github.com/itsRkator/profile/blob/main/java-original.svg" alt="Java" width="30" height="30"/>
