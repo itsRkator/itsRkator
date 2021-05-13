@@ -44,8 +44,13 @@
 
 - 🔭 Training and testing in real and reel life. Diving into the Power Platform. Speaking at events and trying to make technology easier for everyone.
 
-- 🤔 About me: You can find me at [Twitter](https://twitter.com/itsRkator), making connections in [LinkedIn](https://www.linkedin.com/in/itsRkator/) and storing all my data in [GitHub](https://github.com/itsRkator). To know more about me, you can reach out to me through any platform(I have an account in almost every platform) :stuck_out_tongue_closed_eyes:.
-<div>
+- ## About me: I'm Rohitash Kator, Student at [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) in the department of Computer Science and Engineering. I develop to engance the technology. I love to play with code and like to solve challenging problems. Wanna know more, please visiat [My Profile](https://itsRkator.github.io). I like to connect via [Linkedin](https://www.linkedin.com/in/itsRkator/).
+
+- Social Media Handles:
+  <div>
+    Hello hi
+  </div>
+<div>   
 <h3 align="left">Languages and Tools:</h3>
     <a href="https://www.learncpp.com//" target="_blank">
       <img alt="Angular" src="./src/angularjs-plain.svg" />
