@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div>
+  <img width="100%" src="https://github.com/itsRkator/profile/blob/main/codeEatSleepCode.gif" src="Code Eat Sleep Code" />
+ </div>
 [![HitCount](http://hits.dwyl.com/Haimantika/Haimantika.svg)](http://hits.dwyl.com/Haimantika/Haimantika) <img alt="GitHub followers" src="https://img.shields.io/github/followers/itsrkator?style=social">
 ![Twitter Follow](https://img.shields.io/twitter/follow/itsRkator?style=social)
 
@@ -30,9 +32,7 @@
   
 
   <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-<div align="right">
-  <img src="https://github.com/itsRkator/profile/blob/main/codeEatSleepCode.gif" src="Code Eat Sleep Code" />
- </div>
+
 
 
 
