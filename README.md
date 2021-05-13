@@ -26,7 +26,7 @@
 				</a>
 			</td>
 			<td width="50%">
-				<img src="https://progress-bar.dev/45/?width=350" alt="Progress Bar">
+				<img src="https://progress-bar.dev/45/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 		<tr width="100%">
@@ -36,7 +36,7 @@
 				</a>
 			</td>
 			<td width="50%">
-				<img src="https://progress-bar.dev/90/?width=350" alt="Progress Bar">
+				<img src="https://progress-bar.dev/90/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 		<tr width="100%">
@@ -46,7 +46,7 @@
 				</a>
 			</td>
 			<td width="50%">
-				<img src="https://progress-bar.dev/85/?width=350" alt="Progress Bar">
+				<img src="https://progress-bar.dev/85/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 		<tr width="100%">
@@ -56,7 +56,7 @@
 				</a>
 			</td>
 			<td width="50%">
-				<img src="https://progress-bar.dev/90/?width=350" alt="Progress Bar">
+				<img src="https://progress-bar.dev/90/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 		<tr width="100%">
@@ -66,17 +66,17 @@
 				</a>
 			</td>
 			<td width="50%">
-				<img src="https://progress-bar.dev/90/?width=350" alt="Progress Bar">
+				<img src="https://progress-bar.dev/90/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 		<tr width="100%">
 			<td width="50%">
 				<a href="https://github.com/itsRkator" target="_blank">
-					<img src="https://github.com/itsRkator/itsRkator/blob/main/github-original-wordmark.svg" alt="Github" width="30" height="30"/>
+					<img src="https://github.com/itsRkator/itsRkator/blob/main/github-original.svg" alt="Github" width="30" height="30"/>
 				</a>
 			</td>
 			<td width="50%">
-				<img src="https://progress-bar.dev//60/?width=350" alt="Progress Bar">
+				<img src="https://progress-bar.dev//60/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 		<tr width="100%">
@@ -86,7 +86,7 @@
 				</a>
 			</td>
 			<td width="50%">
-				<img src="https://progress-bar.dev//75/?width=350" alt="Progress Bar">
+				<img src="https://progress-bar.dev//75/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 		<tr width="100%">
@@ -96,7 +96,7 @@
 				</a>
 			</td>
 			<td width="50%">
-				<img src="https://progress-bar.dev//80/?width=350" alt="Progress Bar">
+				<img src="https://progress-bar.dev//80/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 		<tr width="100%">
@@ -106,7 +106,7 @@
 				</a>
 			</td>
 			<td>
-				<img src="https://progress-bar.dev//50/?width=350" alt="Progress Bar">
+				<img src="https://progress-bar.dev//50/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 		<tr width="100%">
@@ -116,7 +116,7 @@
 				</a>
 			</td>
 			<td>
-				<img src="https://progress-bar.dev//70/?width=350" alt="Progress Bar">
+				<img src="https://progress-bar.dev//70/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 		<tr width="100%">
@@ -126,7 +126,7 @@
 				</a>
 			</td>
 			<td>
-				<img src="https://progress-bar.dev//60/?width=350" alt="Progress Bar">
+				<img src="https://progress-bar.dev//60/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 		<tr width="100%">
@@ -136,7 +136,7 @@
 				</a>
 			</td>
 			<td>
-				<img src="https://progress-bar.dev//90/?width=350" alt="Progress Bar">
+				<img src="https://progress-bar.dev//90/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 		<tr width="100%">
@@ -146,7 +146,7 @@
 				</a>
 			</td>
 			<td>
-				<img src="https://progress-bar.dev//60/?width=350" alt="Progress Bar">
+				<img src="https://progress-bar.dev//60/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 		<tr width="100%">
@@ -156,7 +156,7 @@
 				</a>
 			</td>
 			<td>
-				<img src="https://progress-bar.dev//50/?width=350" alt="Progress Bar">
+				<img src="https://progress-bar.dev//50/?width=400" alt="Progress Bar">
 			</td>
 		</tr>
 	</table>
