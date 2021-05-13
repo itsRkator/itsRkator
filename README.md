@@ -79,11 +79,7 @@
   [![facebook badge](https://img.shields.io/badge/facebook-@itsRkator-1877f2?style=flat-square&logo=facebook)](https://facebook.com/itsRkator)
   [![instagram badge](https://img.shields.io/badge/instagram-@itsRkator-c32aa3?style=flat-square&logo=instagram)](https://instagram.com/itsRkator)
   ![](https://visitor-badge.glitch.me/badge?page_id=itsRkator.itsRkator)
-
-<p align="left">
-	Alpha
-	<img src="https://komarev.com/ghpvc/?username=itsRkator&label=Profile%20views&color=0e75b6&style=flat" alt="Rohitash Kator" />
-</p>
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=itsRkator&label=Profile%20views&color=0e75b6&style=flat" alt="Rohitash Kator" /></p>
 ***
 <p>
     <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator&layout=compact" alt="Technology Statistics" />
