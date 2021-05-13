@@ -64,9 +64,6 @@
     <a href="https://github.com/itsRkator" target="_blank">
       <img src="https://github.com/itsRkator/profile/blob/main/github-original.svg" alt="Github" width="30" height="30"/>
     </a>
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-    </a>
     <a href="https://www.java.com" target="_blank">
       <img src="https://github.com/itsRkator/profile/blob/main/java-original.svg" alt="Java" width="30" height="30"/>
     </a>
@@ -85,9 +82,12 @@
     <a href="https://www.python.org/" target="_blank">
       <img src="https://github.com/itsRkator/profile/blob/main/python-original.svg" alt="Python" width="30" height="30"/>
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+      <img src="https://github.com/itsRkator/profile/blob/main/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
+    </a>
     <a href="https://vuejs.org/" target="_blank">
       <img src="https://github.com/itsRkator/profile/blob/main/vuejs-original.svg" alt="VueJS" width="30" height="30"/>
-    </a> 
+    </a>
 </div>
 
 <p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator&layout=compact" alt="itsRkator" /></p>
