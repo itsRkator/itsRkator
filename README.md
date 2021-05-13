@@ -50,43 +50,43 @@
 <div>   
 <h3 align="left">Languages and Tools:</h3>
     <a href="https://www.angular.io/" target="_blank">
-      <img alt="Angular" src="https://github.com/itsRkator/profile/blob/main/angularjs-original.svg" alt="Angular Logo" width="50" height="50"/>
+      <img alt="Angular" src="https://github.com/itsRkator/profile/blob/main/angularjs-original.svg" alt="Angular Logo" width="30" height="30"/>
     </a>
     <a href="https://www.learncpp.com/" target="_blank">
-      <img src="https://github.com/itsRkator/profile/blob/main/cplusplus-original.svg" alt="C++ Logo" width="50" height="50"/>
+      <img src="https://github.com/itsRkator/profile/blob/main/cplusplus-original.svg" alt="C++ Logo" width="30" height="30"/>
     </a>
-    <a href="https://www.docker.com/" target="_blank">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+    <a href="https://www.w3schools.com/html/default.asp" target="_blank">
+      <img src="https://github.com/itsRkator/profile/blob/main/html5-original.svg" alt="gcp" width="30" height="30"/>
     </a>
-    <a href="https://firebase.google.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
+    <a href="https://www.w3schools.com/css/default.asp" target="_blank">
+      <img src="https://github.com/itsRkator/profile/blob/main/css3-original.svg" alt="CSS3" width="30" height="30"/>
     </a>
-    <a href="https://cloud.google.com" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/>
+    <a href="https://github.com/itsRkator" target="_blank">
+      <img src="https://github.com/itsRkator/profile/blob/main/github-original.svg" alt="Github" width="30" height="30"/>
     </a>
     <a href="https://git-scm.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
     </a>
     <a href="https://www.java.com" target="_blank">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
+      <img src="https://github.com/itsRkator/profile/blob/main/java-original.svg" alt="Java" width="30" height="30"/>
     </a>
-    <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+    <a href="https://javascript.info/" target="_blank">
+      <img src="https://github.com/itsRkator/profile/blob/main/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
     </a>
-    <a href="https://opencv.org/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="50" height="50"/>
+    <a href="https://www.mongodb.com/" target="_blank">
+      <img src="https://github.com/itsRkator/profile/blob/main/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
     </a>
-    <a href="https://www.python.org" target="_blank">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+    <a href="https://www.w3schools.com/sql/default.asp" target="_blank">
+      <img src="https://github.com/itsRkator/profile/blob/main/mysql-original.svg" alt="MySQL" width="30" height="30"/>
     </a>
-    <a href="https://pytorch.org/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/>
+    <a href="https://nodejs.org/" target="_blank">
+      <img src="https://github.com/itsRkator/profile/blob/main/nodejs-original.svg" alt="NodeJS" width="30" height="30"/>
     </a>
-    <a href="" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/>
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://github.com/itsRkator/profile/blob/main/python-original.svg" alt="Python" width="30" height="30"/>
     </a>
-    <a href="https://www.tensorflow.org" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/>
+    <a href="https://vuejs.org/" target="_blank">
+      <img src="https://github.com/itsRkator/profile/blob/main/vuejs-original.svg" alt="VueJS" width="30" height="30"/>
     </a> 
 </div>
 
