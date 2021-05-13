@@ -21,18 +21,6 @@
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rohitash Kator's DEV Community Profile" height="30" width="30">
   </a>
   -->
-
-
-
-
-
-  
-
-  <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-
-
-
 - 🔭 Training and testing in real and reel life. Diving into the Power Platform. Speaking at events and trying to make technology easier for everyone.
 
 
@@ -92,6 +80,10 @@
   [![instagram badge](https://img.shields.io/badge/instagram-@itsRkator-c32aa3?style=flat-square&logo=instagram)](https://instagram.com/itsRkator)
   ![](https://visitor-badge.glitch.me/badge?page_id=itsRkator.itsRkator)
 
+<p align="left">
+	Alpha
+	<img src="https://komarev.com/ghpvc/?username=itsRkator&label=Profile%20views&color=0e75b6&style=flat" alt="Rohitash Kator" />
+</p>
 ***
 <p>
     <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator&layout=compact" alt="Technology Statistics" />
@@ -101,17 +93,11 @@
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
 
-<p align='center'>
+<!-- <p align='center'>
 	<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=itsRkator.visitor-badge">
- <p/>
+<p/> -->
  
- ***
-<div align="center">
-	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
-		<img src="follower.svg" width="100%" height="140">
-	</a>
-</div>
-
+***
 - ## Stargazers
 	[![Stargazers repo roster for @itsRkator/itsRkator](https://reporoster.com/stars/itsRkator/itsRkator)](https://github.com/itsRkator/itsRkator/stargazers)
 
