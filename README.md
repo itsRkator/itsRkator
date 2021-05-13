@@ -14,16 +14,11 @@
  
  ***
 - ## Skills:
-	| 1.  | <a href="https://www.angular.io/" target="_blank">
+	<div style="display: block; color: white;">
+    <a href="https://www.angular.io/" target="_blank">
       <img alt="Angular" src="https://github.com/itsRkator/itsRkator/blob/main/angularjs-original.svg" alt="Angular Logo" width="30" height="30"/>
-    </a> |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-  <div style="display: block; color: white;">
-    
-	  <a href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp" target="_blank">
+    </a>
+		<a href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp" target="_blank">
       <img alt="BootStrap" src="https://github.com/itsRkator/itsRkator/blob/main/bootstrap-plain-wordmark.svg" alt="Angular Logo" width="30" height="30"/>
     </a>
     <a href="https://www.learncpp.com/" target="_blank">
