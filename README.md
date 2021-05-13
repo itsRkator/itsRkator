@@ -78,6 +78,8 @@
     <a href="https://vuejs.org/" target="_blank">
       <img src="https://github.com/itsRkator/profile/blob/main/vuejs-original.svg" alt="VueJS" width="30" height="30"/>
     </a>
+    <hr>
+    <img src="https://github.com/itsRkator/profile/blob/main/codeEatSleepCode.gif" alt="Code Eat Sleep Code" width="100%" />
 </div>
 
 
