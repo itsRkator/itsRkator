@@ -38,9 +38,9 @@
 
 
 - ## Skills:
-  <div style="display: inline-block">
+  <div style="display: block">
     <a href="https://www.angular.io/" target="_blank">
-      <img alt="Angular" src="https://github.com/itsRkator/profile/blob/main/angularjs-original.svg" alt="Angular Logo" width="30" height="30"/><br>
+      <img alt="Angular" src="https://github.com/itsRkator/profile/blob/main/angularjs-original.svg" alt="Angular Logo" width="30" height="30"/>
     </a>
     <a href="https://www.learncpp.com/" target="_blank">
       <img src="https://github.com/itsRkator/profile/blob/main/cplusplus-original.svg" alt="C++ Logo" width="30" height="30"/>
