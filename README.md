@@ -45,17 +45,15 @@
 
 
 
-- Social Media Handles:
-  <div>
-    Hello hi
-  </div>
+- Skills:
+
 <div>   
 <h3 align="left">Languages and Tools:</h3>
-    <a href="https://www.learncpp.com//" target="_blank">
-      <img alt="Angular" src="./src/angularjs-plain.svg" />
+    <a href="https://www.angular.io/" target="_blank">
+      <img alt="Angular" src="https://github.com/itsRkator/profile/blob/main/angularjs-original.svg" />
     </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <a href="https://www.learncpp.com/" target="_blank">
+      <img src="https://github.com/itsRkator/profile/blob/main/cplusplus-original.svg" alt="C++ Logo" width="40" height="40"/>
     </a>
     <a href="https://www.docker.com/" target="_blank">
       <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -92,7 +90,7 @@
     </a> 
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator&layout=compact" alt="itsRkator" /></p>
+<p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator&layout=compact" alt="itsRkator" /></p>
 
 ***
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
