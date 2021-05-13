@@ -4,7 +4,9 @@
 <div>
   <img width="100%" src="https://github.com/itsRkator/profile/blob/main/rohitashIntro.gif" src="Code Eat Sleep Code" />
 </div>
- 
+
+- ## About me: 
+    I'm Rohitash Kator, Student at [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) in the department of Computer Science and Engineering. I         develop to engance the technology. I love to play with code and like to solve challenging problems. Wanna know more, please visiat [My Profile](https://itsRkator.github.io). I   like to connect via [Linkedin](https://www.linkedin.com/in/itsRkator/).
  
 <!--
 ![Twitter Follow](https://img.shields.io/twitter/follow/itsRkator?style=social)
@@ -44,8 +46,7 @@
 
 - 🔭 Training and testing in real and reel life. Diving into the Power Platform. Speaking at events and trying to make technology easier for everyone.
 
-- ## About me: 
-    I'm Rohitash Kator, Student at [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) in the department of Computer Science and Engineering. I         develop to engance the technology. I love to play with code and like to solve challenging problems. Wanna know more, please visiat [My Profile](https://itsRkator.github.io). I   like to connect via [Linkedin](https://www.linkedin.com/in/itsRkator/).
+
 
 - Social Media Handles:
   <div>
