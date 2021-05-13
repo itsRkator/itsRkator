@@ -21,9 +21,8 @@
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rohitash Kator's DEV Community Profile" height="30" width="30">
   </a>
   -->
-***
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-***
+
+
 
 - ## 📫 Reach me at:
   <!-- links to social media icons -->
@@ -95,4 +94,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator&layout=compact" alt="itsRkator" /></p>
 
-![Rohitash's github stats](https://github-readme-stats.vercel.app/api?username=itsRkator&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515)
+***
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
