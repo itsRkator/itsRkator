@@ -203,7 +203,7 @@ badge](https://img.shields.io/badge/instagram-@itsRkator-c32aa3?style=flat-squar
 ***
 <p>
   <img width="100%" align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator"
     alt="Technology Statistics" />
 </p>
 
