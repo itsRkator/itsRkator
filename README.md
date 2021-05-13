@@ -46,9 +46,8 @@
 
 
 - Skills:
-
-<div>   
-<h3 align="left">Languages and Tools:</h3>
+  <div>   
+    <h3 align="left">Languages and Tools:</h3>
     <a href="https://www.angular.io/" target="_blank">
       <img alt="Angular" src="https://github.com/itsRkator/profile/blob/main/angularjs-original.svg" alt="Angular Logo" width="30" height="30"/>
     </a>
