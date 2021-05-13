@@ -88,7 +88,10 @@
     </a>
 </div>
 
-<p><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator&layout=compact" alt="itsRkator" /></p>
+***
+<p>
+    <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator&layout=compact" alt="Technology Statistics" />
+</p>
 
 ***
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
