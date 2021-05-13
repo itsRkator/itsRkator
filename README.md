@@ -6,25 +6,9 @@
 </div>
 
 - ## About me: 
-    I'm Rohitash Kator, Student at [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) in the department of Computer Science and Engineering. I         develop to engance the technology. I love to play with code and like to solve challenging problems. Wanna know more, please visiat [My Profile](https://itsRkator.github.io). I   like to connect via [Linkedin](https://www.linkedin.com/in/itsRkator/).
+    - I'm Rohitash Kator, Student at [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) in the department of Computer Science and Engineering. I         develop to engance the technology. I love to play with code and like to solve challenging problems. Wanna know more, please visiat [My Profile](https://itsRkator.github.io). I   like to connect via [Linkedin](https://www.linkedin.com/in/itsRkator/).
  
-<!--
-![Twitter Follow](https://img.shields.io/twitter/follow/itsRkator?style=social)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itsRkaotr&label=Profile%20views&color=0e75b6&style=flat" alt="itsRkator" />
-</p>
-
-
-- ## Read my blogs:
-  <a href="https://dev.to/itsrkator">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rohitash Kator's DEV Community Profile" height="30" width="30">
-  </a>
-  -->
-- 🔭 Training and testing in real and reel life. Diving into the Power Platform. Speaking at events and trying to make technology easier for everyone.
-
-
-
+ ***
 - ## Skills:
   <div style="display: block; color: white;">
     <a href="https://www.angular.io/" target="_blank">
