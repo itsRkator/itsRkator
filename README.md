@@ -21,9 +21,9 @@
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Rohitash Kator's DEV Community Profile" height="30" width="30">
   </a>
   -->
-
+***
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
+***
 - ## 📫 Reach me at:
   <!-- links to social media icons -->
   [![linkedin badge](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
