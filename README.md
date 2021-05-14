@@ -220,6 +220,6 @@ badge](https://img.shields.io/badge/instagram-@itsRkator-c32aa3?style=flat-squar
 
 <div align="center">
   <h1>
-    Thenks for Visiting. See you soon.
+    Thanks for Visiting. See you soon, Have a Nice day.
   </h1>
 </div>
