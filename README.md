@@ -19,160 +19,160 @@ connect via [Linkedin](https://www.linkedin.com/in/itsRkator/).
 - ## Skills:
 <table align="center" style="width: 1000px">
   <tr width="100%">
-    <th width="50%">Technology</th>
-    <th width="50%">Level</th>
+    <th align="center" width="50%">Technology</th>
+    <th align="center" width="50%">Level</th>
   </tr>
   <tr width="100%">
-    <td width="50%">
+    <td align="center" width="50%">
       <a href="https://www.angular.io/" target="_blank">
         <img alt="Angular" src="https://github.com/itsRkator/itsRkator/blob/main/angularjs-original.svg"
           alt="Angular Logo" width="60" height="60" />
       </a>
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
       <img height="35" src="https://progress-bar.dev/70/?width=400" alt="Progress Bar" />
     </td>
   </tr>
   <tr width="100%">
-    <td width="50%">
+    <td align="center" width="50%">
       <a href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp" target="_blank">
         <img alt="BootStrap" src="https://github.com/itsRkator/itsRkator/blob/main/bootstrap-plain-wordmark.svg"
           alt="Angular Logo" width="60" height="60" />
       </a>
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
       <img height="35" src="https://progress-bar.dev/90/?width=400" alt="Progress Bar" />
     </td>
   </tr>
   <tr width="100%">
-    <td width="50%">
+    <td align="center" width="50%">
       <a href="https://www.learncpp.com/" target="_blank">
         <img src="https://github.com/itsRkator/itsRkator/blob/main/cplusplus-original.svg" alt="C++ Logo" width="60"
           height="60" />
       </a>
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
       <img height="35" src="https://progress-bar.dev/85/?width=400" alt="Progress Bar" />
     </td>
   </tr>
   <tr width="100%">
-    <td width="50%">
+   <td align="center" width="50%">
       <a href="https://www.w3schools.com/html/default.asp" target="_blank">
         <img src="https://github.com/itsRkator/itsRkator/blob/main/html5-original.svg" alt="HTML5" width="60"
           height="60" />
       </a>
     </td>
-    <td width="50%">
+   <td align="center" width="50%">
       <img height="35" src="https://progress-bar.dev/90/?width=400" alt="Progress Bar" />
     </td>
   </tr>
   <tr width="100%">
-    <td width="50%">
+    <td align="center" width="50%">
       <a href="https://www.w3schools.com/css/default.asp" target="_blank">
         <img src="https://github.com/itsRkator/itsRkator/blob/main/css3-original.svg" alt="CSS3" width="60"
           height="60" />
       </a>
     </td>
-    <td width="50%">
+   <td align="center" width="50%">
       <img height="35" src="https://progress-bar.dev/90/?width=400" alt="Progress Bar" />
     </td>
   </tr>
   <tr width="100%">
-    <td width="50%">
+    <td align="center" width="50%">
       <a href="https://github.com/itsRkator" target="_blank">
         <img src="https://github.com/itsRkator/itsRkator/blob/main/github-original.svg" alt="Github" width="60"
           height="60" />
       </a>
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
       <img height="35" src="https://progress-bar.dev//75/?width=400" alt="Progress Bar" />
     </td>
   </tr>
   <tr width="100%">
-    <td width="50%">
+    <td align="center" width="50%">
       <a href="https://www.java.com" target="_blank">
         <img src="https://github.com/itsRkator/itsRkator/blob/main/java-original.svg" alt="Java" width="60"
           height="60" />
       </a>
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
       <img height="35" src="https://progress-bar.dev//75/?width=400" alt="Progress Bar" />
     </td>
   </tr>
   <tr width="100%">
-    <td width="50%">
+    <td align="center" width="50%">
       <a href="https://javascript.info/" target="_blank">
         <img src="https://github.com/itsRkator/itsRkator/blob/main/javascript-original.svg" alt="JavaScript" width="60"
           height="60" />
       </a>
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
       <img height="35" src="https://progress-bar.dev//80/?width=400" alt="Progress Bar" />
     </td>
   </tr>
   <tr width="100%">
-    <td width="50%">
+    <td align="center" width="50%">
       <a href="https://www.mongodb.com/" target="_blank">
         <img src="https://github.com/itsRkator/itsRkator/blob/main/mongodb-original.svg" alt="MongoDB" width="60"
           height="60" />
       </a>
     </td>
-    <td width="50%">
+   <td align="center" width="50%">
       <img height="35" src="https://progress-bar.dev//70/?width=400" alt="Progress Bar" />
     </td>
   </tr>
   <tr width="100%">
-    <td width="50%">
+    <td align="center" width="50%">
       <a href="https://www.w3schools.com/sql/default.asp" target="_blank">
         <img src="https://github.com/itsRkator/itsRkator/blob/main/mysql-original.svg" alt="MySQL" width="60"
           height="60" />
       </a>
     </td>
-    <td width="50%">
+   <td align="center" width="50%">
       <img height="35" src="https://progress-bar.dev//70/?width=400" alt="Progress Bar" />
     </td>
   </tr>
   <tr width="100%">
-    <td width="50%">
+   <td align="center" width="50%">
       <a href="https://nodejs.org/" target="_blank">
         <img src="https://github.com/itsRkator/itsRkator/blob/main/nodejs-original.svg" alt="NodeJS" width="60"
           height="60" />
       </a>
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
       <img height="35" src="https://progress-bar.dev//60/?width=400" alt="Progress Bar" />
     </td>
   </tr>
   <tr width="100%">
-    <td width="50%">
+   <td align="center" width="50%">
       <a href="https://www.python.org/" target="_blank">
         <img src="https://github.com/itsRkator/itsRkator/blob/main/python-original.svg" alt="Python" width="60"
           height="60" />
       </a>
     </td>
-    <td width="50%">
+    <td align="center" width="50%">
       <img height="35" src="https://progress-bar.dev//90/?width=400" alt="Progress Bar" />
     </td>
   </tr>
   <tr width="100%">
-    <td width="50%">
+   <td align="center" width="50%">
       <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://github.com/itsRkator/itsRkator/blob/main/typescript-original.svg" alt="TypeScript" width="60"
           height="60" />
       </a>
     </td>
-    <td width="50%">
+   <td align="center" width="50%">
       <img height="35" src="https://progress-bar.dev//65/?width=400" alt="Progress Bar" />
     </td>
   </tr>
   <tr width="100%">
-    <td width="50%">
+   <td align="center" width="50%">
       <a href="https://vuejs.org/" target="_blank">
         <img src="https://github.com/itsRkator/itsRkator/blob/main/vuejs-original.svg" alt="VueJS" width="60"
           height="60" />
       </a>
     </td>
-    <td width="50%">
+   <td align="center" width="50%">
       <img height="35" src="https://progress-bar.dev//60/?width=400" alt="Progress Bar" />
     </td>
   </tr>
