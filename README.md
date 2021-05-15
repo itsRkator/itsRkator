@@ -8,8 +8,7 @@
 - ## About me:
   - I'm Rohitash Kator, Student at [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) in the
   department of Computer Science and Engineering. I develop to enhance the technology. I love to play with code and like
-  to solve challenging problems. Wanna know more, please visiat [My Profile](https://itsRkator.github.io). I like to
-  connect via [Linkedin](https://www.linkedin.com/in/itsRkator/).
+  to solve challenging problems. Wanna know more, please visit at [My Profile](https://itsRkator.github.io).
   - ⚡ Fun facts: Play cricket, Gardening, Travelling & Bike Riding.
   - Technical Member at <b>Google Developers Club</b>, NIT Andhra Pradesh.
 
