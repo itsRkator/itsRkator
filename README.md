@@ -276,23 +276,20 @@
 
 ***
 - ## 📫 Reach me at:
-[![linkedin
-badge](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
-[![twitter
-badge](https://img.shields.io/badge/twitter-@itsRkator-1da1f2?style=flat-square&logo=twitter)](https://twitter.com/itsRkator)
-[![facebook
-badge](https://img.shields.io/badge/facebook-@itsRkator-1877f2?style=flat-square&logo=facebook)](https://facebook.com/itsRkator)
-[![instagram
-badge](https://img.shields.io/badge/instagram-@itsRkator-c32aa3?style=flat-square&logo=instagram)](https://instagram.com/itsRkator)
-![](https://visitor-badge.glitch.me/badge?page_id=itsRkator.itsRkator)
-<p align="left"><img src="https://komarev.com/ghpvc/?username=itsRkator&label=Profile%20views&color=0e75b6&style=flat"
+  [![linkedin badge](https://img.shields.io/badge/linkedin-itsRkator-007bb5?style=badge&logo=linkedin)](https://www.linkedin.com/in/itsRkator)
+  [![Rohitash Kator's DEV Community Profile](https://img.shields.io/badge/dev-itsRkator-000000?style=badge&logo=dev.to)](https://dev.to/itsrkator)
+  [![facebook badge](https://img.shields.io/badge/facebook-@itsRkator-1877f2?style=badge&logo=facebook)](https://facebook.com/itsRkator)
+  [![twitter badge](https://img.shields.io/badge/twitter-@itsRkator-1da1f2?style=badge&logo=twitter)](https://twitter.com/itsRkator)
+  [![instagram badge](https://img.shields.io/badge/instagram-@itsRkator-c32aa3?style=badge&logo=instagram)](https://instagram.com/itsRkator)
+  ![](https://visitor-badge.glitch.me/badge?page_id=itsRkator.itsRkator)
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=itsRkator&label=Profile%20views&color=0e75b6&style=flat"
     alt="Rohitash Kator" /></p>
 
 
 ***
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator&layout=compact" alt="Technology Statistics" />
-  <img style="background-color: rgb(82, 69, 87);" src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 </div>
 
 ***
