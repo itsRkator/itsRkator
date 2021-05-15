@@ -288,29 +288,24 @@ badge](https://img.shields.io/badge/instagram-@itsRkator-c32aa3?style=flat-squar
 <p align="left"><img src="https://komarev.com/ghpvc/?username=itsRkator&label=Profile%20views&color=0e75b6&style=flat"
     alt="Rohitash Kator" /></p>
 
-***
-<p>
-  <img width="100%" align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator&layout=compact"
-    alt="Technology Statistics" />
-</p>
 
 ***
 <div>
-  <img style="background-color: grey;" width="100%"
-  src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator&layout=compact" alt="Technology Statistics" />
+  <img style="background-color: rgb(82, 69, 87);" src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 </div>
 
 
 ***
-- ## Stars:
-[![Stargazers repo roster for @itsRkator/itsRkator](https://reporoster.com/stars/itsRkator/itsRkator)](https://github.com/itsRkator/itsRkator/stargazers)
+- ## Stanzers:
+<!--  [![Stargazers repo roster for @itsRkator/itsRkator](https://reporoster.com/stars/itsRkator/itsRkator)](https://github.com/itsRkator/itsRkator/stargazers) -->
 
-<div>
-  <a href="https://github.com/itsRkator/itsRkator/stargazers">
-    <img src="https://reporoster.com/stars/itsRkator/itsRkator" alt="Stars" />
-  </a>
-</div>
+  ***
+  <div>
+      <a href="https://github.com/itsRkator/itsRkator/stargazers">
+        <img src="https://reporoster.com/stars/itsRkator/itsRkator" alt="Stars" />
+      </a>
+  </div>
   
 
 <div align="center">
