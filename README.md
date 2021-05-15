@@ -265,12 +265,14 @@
     </tr>
   </table>
 
+
+<!--
 ***
 <div style="display: block; color: white;">
   <img src="https://github.com/itsRkator/itsRkator/blob/main/codeEatSleepCode.gif" alt="Code Eat Sleep Code"
     width="100%" />
 </div>
-
+-->
 
 ***
 - ## 📫 Reach me at:
