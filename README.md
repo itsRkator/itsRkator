@@ -291,20 +291,27 @@ badge](https://img.shields.io/badge/instagram-@itsRkator-c32aa3?style=flat-squar
 ***
 <p>
   <img width="100%" align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsRkator&layout=compact"
     alt="Technology Statistics" />
 </p>
 
 ***
-<img style="background-color: grey;" width="100%"
+<div>
+  <img style="background-color: grey;" width="100%"
   src="https://github-readme-stats.vercel.app/api?username=itsRkator&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
+</div>
 
 
 ***
-- ## Stargazers
-[![Stargazers repo roster for
-@itsRkator/itsRkator](https://reporoster.com/stars/itsRkator/itsRkator)](https://github.com/itsRkator/itsRkator/stargazers)
+- ## Stars:
+[![Stargazers repo roster for @itsRkator/itsRkator](https://reporoster.com/stars/itsRkator/itsRkator)](https://github.com/itsRkator/itsRkator/stargazers)
+
+<div>
+  <a href="https://github.com/itsRkator/itsRkator/stargazers">
+    <img src="https://reporoster.com/stars/itsRkator/itsRkator" alt="Stars" />
+  </a>
+</div>
+  
 
 <div align="center">
   <h1>
