@@ -294,13 +294,9 @@
 
 ***
 - ## Stanzers:
-<!--  [![Stargazers repo roster for @itsRkator/itsRkator](https://reporoster.com/stars/itsRkator/itsRkator)](https://github.com/itsRkator/itsRkator/stargazers) -->
-<div>
-  <a href="https://github.com/itsRkator/itsRkator/stargazers" target="_blank">
-    <img src="https://reporoster.com/stars/itsRkator/itsRkator" alt="Stranzers" />
-  </a>
-</div>
+  [![Stargazers repo roster for @itsRkator/itsRkator](https://reporoster.com/stars/itsRkator/itsRkator)](https://github.com/itsRkator/itsRkator/stargazers)
 
+***
 <div align="center">
   <h1>
     Thanks for Visiting. See you soon, Have a Nice day.
