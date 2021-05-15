@@ -15,167 +15,255 @@
 
 ***
 - ## Skills:
-<table align="center" style="width: 1000px">
-  <tr width="100%">
-    <th align="center" width="50%">Technology</th>
-    <th align="center" width="50%">Level</th>
-  </tr>
-  <tr width="100%">
-    <td align="center" width="50%">
-      <a href="https://www.angular.io/" target="_blank">
-        <img alt="Angular" src="https://github.com/itsRkator/itsRkator/blob/main/angularjs-original.svg"
-          alt="Angular Logo" width="60" height="60" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev/70/?width=400" alt="Progress Bar" />
-    </td>
-  </tr>
-  <tr width="100%">
-    <td align="center" width="50%">
-      <a href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp" target="_blank">
-        <img alt="BootStrap" src="https://github.com/itsRkator/itsRkator/blob/main/bootstrap-plain-wordmark.svg"
-          alt="Angular Logo" width="60" height="60" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev/90/?width=400" alt="Progress Bar" />
-    </td>
-  </tr>
-  <tr width="100%">
-    <td align="center" width="50%">
-      <a href="https://www.learncpp.com/" target="_blank">
-        <img src="https://github.com/itsRkator/itsRkator/blob/main/cplusplus-original.svg" alt="C++ Logo" width="60"
-          height="60" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev/85/?width=400" alt="Progress Bar" />
-    </td>
-  </tr>
-  <tr width="100%">
-   <td align="center" width="50%">
-      <a href="https://www.w3schools.com/html/default.asp" target="_blank">
-        <img src="https://github.com/itsRkator/itsRkator/blob/main/html5-original.svg" alt="HTML5" width="60"
-          height="60" />
-      </a>
-    </td>
-   <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev/90/?width=400" alt="Progress Bar" />
-    </td>
-  </tr>
-  <tr width="100%">
-    <td align="center" width="50%">
-      <a href="https://www.w3schools.com/css/default.asp" target="_blank">
-        <img src="https://github.com/itsRkator/itsRkator/blob/main/css3-original.svg" alt="CSS3" width="60"
-          height="60" />
-      </a>
-    </td>
-   <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev/90/?width=400" alt="Progress Bar" />
-    </td>
-  </tr>
-  <tr width="100%">
-    <td align="center" width="50%">
-      <a href="https://github.com/itsRkator" target="_blank">
-        <img src="https://github.com/itsRkator/itsRkator/blob/main/github-original.svg" alt="Github" width="60"
-          height="60" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev//75/?width=400" alt="Progress Bar" />
-    </td>
-  </tr>
-  <tr width="100%">
-    <td align="center" width="50%">
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://github.com/itsRkator/itsRkator/blob/main/java-original.svg" alt="Java" width="60"
-          height="60" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev//75/?width=400" alt="Progress Bar" />
-    </td>
-  </tr>
-  <tr width="100%">
-    <td align="center" width="50%">
-      <a href="https://javascript.info/" target="_blank">
-        <img src="https://github.com/itsRkator/itsRkator/blob/main/javascript-original.svg" alt="JavaScript" width="60"
-          height="60" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev//80/?width=400" alt="Progress Bar" />
-    </td>
-  </tr>
-  <tr width="100%">
-    <td align="center" width="50%">
-      <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://github.com/itsRkator/itsRkator/blob/main/mongodb-original.svg" alt="MongoDB" width="60"
-          height="60" />
-      </a>
-    </td>
-   <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev//70/?width=400" alt="Progress Bar" />
-    </td>
-  </tr>
-  <tr width="100%">
-    <td align="center" width="50%">
-      <a href="https://www.w3schools.com/sql/default.asp" target="_blank">
-        <img src="https://github.com/itsRkator/itsRkator/blob/main/mysql-original.svg" alt="MySQL" width="60"
-          height="60" />
-      </a>
-    </td>
-   <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev//70/?width=400" alt="Progress Bar" />
-    </td>
-  </tr>
-  <tr width="100%">
-   <td align="center" width="50%">
-      <a href="https://nodejs.org/" target="_blank">
-        <img src="https://github.com/itsRkator/itsRkator/blob/main/nodejs-original.svg" alt="NodeJS" width="60"
-          height="60" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev//70/?width=400" alt="Progress Bar" />
-    </td>
-  </tr>
-  <tr width="100%">
-   <td align="center" width="50%">
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://github.com/itsRkator/itsRkator/blob/main/python-original.svg" alt="Python" width="60"
-          height="60" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev//90/?width=400" alt="Progress Bar" />
-    </td>
-  </tr>
-  <tr width="100%">
-   <td align="center" width="50%">
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://github.com/itsRkator/itsRkator/blob/main/typescript-original.svg" alt="TypeScript" width="60"
-          height="60" />
-      </a>
-    </td>
-   <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev//70/?width=400" alt="Progress Bar" />
-    </td>
-  </tr>
-  <tr width="100%">
-   <td align="center" width="50%">
-      <a href="https://vuejs.org/" target="_blank">
-        <img src="https://github.com/itsRkator/itsRkator/blob/main/vuejs-original.svg" alt="VueJS" width="60"
-          height="60" />
-      </a>
-    </td>
-   <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev//60/?width=400" alt="Progress Bar" />
-    </td>
-  </tr>
-</table>
-
+    <table align="center" style="width: 1000px" border="1" cellspacing="0">
+    <tr width="100%">
+      <th align="center" width="20%">Technology</th>
+      <th align="center" width="80%">Level</th>
+    </tr>
+    <tr width="100%">
+      <td align="left" width="20%">
+        <a href="https://www.angular.io/" target="_blank">
+          <img
+            alt="Angular"
+            src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
+            alt="Angular Logo"
+          />
+        </a>
+      </td>
+      <td align="center" width="80%">
+        <img
+          height="25"
+          src="https://progress-bar.dev/70/?width=550"
+          alt="Progress Bar"
+        />
+      </td>
+    </tr>
+    <tr width="100%">
+      <td align="left" width="20%">
+        <a
+          href="https://www.w3schools.com/bootstrap/bootstrap_ver.asp"
+          target="_blank"
+        >
+          <img
+            alt="BootStrap"
+            src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+            alt="Angular Logo"
+          />
+        </a>
+      </td>
+      <td align="center" width="80%">
+        <img
+          height="25"
+          src="https://progress-bar.dev/90/?width=550"
+          alt="Progress Bar"
+        />
+      </td>
+    </tr>
+    <tr width="100%">
+      <td align="left" width="20%">
+        <a href="https://www.learncpp.com/" target="_blank">
+          <img
+            src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+            alt="C++ Logo"
+          />
+        </a>
+      </td>
+      <td align="center" width="80%">
+        <img
+          height="25"
+          src="https://progress-bar.dev/80/?width=550"
+          alt="Progress Bar"
+        />
+      </td>
+    </tr>
+    <tr width="100%">
+      <td align="left" width="20%">
+        <a href="https://www.w3schools.com/html/default.asp" target="_blank">
+          <img
+            src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+            alt="HTML5"
+          />
+        </a>
+      </td>
+      <td align="center" width="80%">
+        <img
+          height="25"
+          src="https://progress-bar.dev/90/?width=550"
+          alt="Progress Bar"
+        />
+      </td>
+    </tr>
+    <tr width="100%">
+      <td align="left" width="20%">
+        <a href="https://www.w3schools.com/css/default.asp" target="_blank">
+          <img
+            src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+            alt="CSS3"
+          />
+        </a>
+      </td>
+      <td align="center" width="80%">
+        <img
+          height="25"
+          src="https://progress-bar.dev/90/?width=550"
+          alt="Progress Bar"
+        />
+      </td>
+    </tr>
+    <tr width="100%">
+      <td align="left" width="20%">
+        <a href="https://github.com/itsRkator" target="_blank">
+          <img
+            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+            alt="Github"
+          />
+        </a>
+      </td>
+      <td align="center" width="80%">
+        <img
+          height="25"
+          src="https://progress-bar.dev//75/?width=550"
+          alt="Progress Bar"
+        />
+      </td>
+    </tr>
+    <tr width="100%">
+      <td align="left" width="20%">
+        <a href="https://www.java.com" target="_blank">
+          <img
+            src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+            alt="Java"
+          />
+        </a>
+      </td>
+      <td align="center" width="80%">
+        <img
+          height="25"
+          src="https://progress-bar.dev//75/?width=550"
+          alt="Progress Bar"
+        />
+      </td>
+    </tr>
+    <tr width="100%">
+      <td align="left" width="20%">
+        <a href="https://javascript.info/" target="_blank">
+          <img
+            src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+            alt="JavaScript"
+          />
+        </a>
+      </td>
+      <td align="center" width="80%">
+        <img
+          height="25"
+          src="https://progress-bar.dev//80/?width=550"
+          alt="Progress Bar"
+        />
+      </td>
+    </tr>
+    <tr width="100%">
+      <td align="left" width="20%">
+        <a href="https://www.mongodb.com/" target="_blank">
+          <img
+            src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+            alt="MongoDB"
+          />
+        </a>
+      </td>
+      <td align="center" width="80%">
+        <img
+          height="25"
+          src="https://progress-bar.dev//70/?width=550"
+          alt="Progress Bar"
+        />
+      </td>
+    </tr>
+    <tr width="100%">
+      <td align="left" width="20%">
+        <a href="https://www.w3schools.com/sql/default.asp" target="_blank">
+          <img
+            src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+            alt="MySQL"
+          />
+        </a>
+      </td>
+      <td align="center" width="80%">
+        <img
+          height="25"
+          src="https://progress-bar.dev//70/?width=550"
+          alt="Progress Bar"
+        />
+      </td>
+    </tr>
+    <tr width="100%">
+      <td align="left" width="20%">
+        <a href="https://nodejs.org/" target="_blank">
+          <img
+            src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+            alt="NodeJS"
+          />
+        </a>
+      </td>
+      <td align="center" width="80%">
+        <img
+          height="25"
+          src="https://progress-bar.dev//70/?width=550"
+          alt="Progress Bar"
+        />
+      </td>
+    </tr>
+    <tr width="100%">
+      <td align="left" width="20%">
+        <a href="https://www.python.org/" target="_blank">
+          <img
+            src="https://img.shields.io/badge/Python-14254C?style=for-the-badge&logo=python&logoColor=white"
+            alt="Python"
+          />
+        </a>
+      </td>
+      <td align="center" width="80%">
+        <img
+          height="25"
+          src="https://progress-bar.dev//90/?width=550"
+          alt="Progress Bar"
+        />
+      </td>
+    </tr>
+    <tr width="100%">
+      <td align="left" width="20%">
+        <a href="https://www.typescriptlang.org/" target="_blank">
+          <img
+            src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+            alt="TypeScript"
+          />
+        </a>
+      </td>
+      <td align="center" width="80%">
+        <img
+          height="25"
+          src="https://progress-bar.dev//70/?width=550"
+          alt="Progress Bar"
+        />
+      </td>
+    </tr>
+    <tr width="100%">
+      <td align="left" width="20%">
+        <a href="https://vuejs.org/" target="_blank">
+          <img
+            src="https://img.shields.io/badge/Vue.js-25495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"
+            alt="VueJS"
+          />
+        </a>
+      </td>
+      <td align="center" width="80%">
+        <img
+          height="25"
+          src="https://progress-bar.dev//60/?width=550"
+          alt="Progress Bar"
+        />
+      </td>
+    </tr>
+  </table>
 
 ***
 <div style="display: block; color: white;">
