@@ -299,7 +299,9 @@ badge](https://img.shields.io/badge/instagram-@itsRkator-c32aa3?style=flat-squar
 - ## Stanzers:
 <!--  [![Stargazers repo roster for @itsRkator/itsRkator](https://reporoster.com/stars/itsRkator/itsRkator)](https://github.com/itsRkator/itsRkator/stargazers) -->
 <div>
-  <a href="https://github.com/itsRkator/itsRkator/stargazers"><img src="https://reporoster.com/stars/itsRkator/itsRkator" alt="Stars" /></a>
+  <a href="https://github.com/itsRkator/itsRkator/stargazers" target="_blank">
+    <img src="https://reporoster.com/stars/itsRkator/itsRkator" alt="Stranzers" />
+  </a>
 </div>
 
 <div align="center">
