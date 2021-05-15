@@ -25,7 +25,7 @@
         <a href="https://www.angular.io/" target="_blank">
           <img
             alt="Angular"
-            src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
+            src="https://img.shields.io/badge/Angular-DD0031?style=badge&logo=angular&logoColor=white"
             alt="Angular Logo"
           />
         </a>
@@ -46,7 +46,7 @@
         >
           <img
             alt="BootStrap"
-            src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+            src="https://img.shields.io/badge/BootStrap-563D7C?style=badge&logo=bootstrap&logoColor=white"
             alt="Angular Logo"
           />
         </a>
@@ -63,7 +63,7 @@
       <td align="left" width="20%">
         <a href="https://www.learncpp.com/" target="_blank">
           <img
-            src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+            src="https://img.shields.io/badge/C%2B%2B-00599C?style=badge&logo=c%2B%2B&logoColor=white"
             alt="C++ Logo"
           />
         </a>
@@ -80,7 +80,7 @@
       <td align="left" width="20%">
         <a href="https://www.w3schools.com/html/default.asp" target="_blank">
           <img
-            src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+            src="https://img.shields.io/badge/HTML5-E34F26?style=badge&logo=html5&logoColor=white"
             alt="HTML5"
           />
         </a>
@@ -97,7 +97,7 @@
       <td align="left" width="20%">
         <a href="https://www.w3schools.com/css/default.asp" target="_blank">
           <img
-            src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+            src="https://img.shields.io/badge/CSS3-1572B6?style=badge&logo=css3&logoColor=white"
             alt="CSS3"
           />
         </a>
@@ -114,7 +114,7 @@
       <td align="left" width="20%">
         <a href="https://github.com/itsRkator" target="_blank">
           <img
-            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
+            src="https://img.shields.io/badge/GitHub-100000?style=badge&logo=github&logoColor=white"
             alt="Github"
           />
         </a>
@@ -131,7 +131,7 @@
       <td align="left" width="20%">
         <a href="https://www.java.com" target="_blank">
           <img
-            src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+            src="https://img.shields.io/badge/Java-ED8B00?style=badge&logo=java&logoColor=white"
             alt="Java"
           />
         </a>
@@ -148,7 +148,7 @@
       <td align="left" width="20%">
         <a href="https://javascript.info/" target="_blank">
           <img
-            src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+            src="https://img.shields.io/badge/JavaScript-323330?style=badge&logo=javascript&logoColor=F7DF1E"
             alt="JavaScript"
           />
         </a>
@@ -165,7 +165,7 @@
       <td align="left" width="20%">
         <a href="https://www.mongodb.com/" target="_blank">
           <img
-            src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+            src="https://img.shields.io/badge/MongoDB-4EA94B?style=badge&logo=mongodb&logoColor=white"
             alt="MongoDB"
           />
         </a>
@@ -182,7 +182,7 @@
       <td align="left" width="20%">
         <a href="https://www.w3schools.com/sql/default.asp" target="_blank">
           <img
-            src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+            src="https://img.shields.io/badge/MySQL-00758F?style=badge&logo=mysql&logoColor=white"
             alt="MySQL"
           />
         </a>
@@ -199,7 +199,7 @@
       <td align="left" width="20%">
         <a href="https://nodejs.org/" target="_blank">
           <img
-            src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+            src="https://img.shields.io/badge/NodeJS-68A063?style=badge&logo=node.js&logoColor=white"
             alt="NodeJS"
           />
         </a>
@@ -216,7 +216,7 @@
       <td align="left" width="20%">
         <a href="https://www.python.org/" target="_blank">
           <img
-            src="https://img.shields.io/badge/Python-14254C?style=for-the-badge&logo=python&logoColor=white"
+            src="https://img.shields.io/badge/Python-14254C?style=badge&logo=python&logoColor=white"
             alt="Python"
           />
         </a>
@@ -233,7 +233,7 @@
       <td align="left" width="20%">
         <a href="https://www.typescriptlang.org/" target="_blank">
           <img
-            src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+            src="https://img.shields.io/badge/TypeScript-007ACC?style=badge&logo=typescript&logoColor=white"
             alt="TypeScript"
           />
         </a>
@@ -250,7 +250,7 @@
       <td align="left" width="20%">
         <a href="https://vuejs.org/" target="_blank">
           <img
-            src="https://img.shields.io/badge/Vue.js-25495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"
+            src="https://img.shields.io/badge/Vue.js-25495E?style=badge&logo=vue.js&logoColor=4FC08D"
             alt="VueJS"
           />
         </a>
