@@ -2,18 +2,16 @@
   <h1 align="center">
     Hi👋, <b><em>Welcome to my GitHub Profile</em></b>.
   </h1>
-</div>
-<div>
   <img width="100%" src="https://github.com/itsRkator/profile/blob/main/rohitashIntro.gif" src="Code Eat Sleep Code" />
 </div>
 
 - ## About me:
-- I'm Rohitash Kator, Student at [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) in the
-department of Computer Science and Engineering. I develop to enhance the technology. I love to play with code and like
-to solve challenging problems. Wanna know more, please visiat [My Profile](https://itsRkator.github.io). I like to
-connect via [Linkedin](https://www.linkedin.com/in/itsRkator/).
-- ⚡ Fun facts: Play cricket, Gardening, Travelling & Bike Riding.
-- Technical Member at <b>Google Developers Club</b>, NIT Andhra Pradesh.
+  - I'm Rohitash Kator, Student at [National Institute of Technology, Andhra Pradesh](https://www.nitandhra.ac.in) in the
+  department of Computer Science and Engineering. I develop to enhance the technology. I love to play with code and like
+  to solve challenging problems. Wanna know more, please visiat [My Profile](https://itsRkator.github.io). I like to
+  connect via [Linkedin](https://www.linkedin.com/in/itsRkator/).
+  - ⚡ Fun facts: Play cricket, Gardening, Travelling & Bike Riding.
+  - Technical Member at <b>Google Developers Club</b>, NIT Andhra Pradesh.
 
 ***
 - ## Skills:
@@ -140,7 +138,7 @@ connect via [Linkedin](https://www.linkedin.com/in/itsRkator/).
       </a>
     </td>
     <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev//60/?width=400" alt="Progress Bar" />
+      <img height="35" src="https://progress-bar.dev//70/?width=400" alt="Progress Bar" />
     </td>
   </tr>
   <tr width="100%">
@@ -162,7 +160,7 @@ connect via [Linkedin](https://www.linkedin.com/in/itsRkator/).
       </a>
     </td>
    <td align="center" width="50%">
-      <img height="35" src="https://progress-bar.dev//65/?width=400" alt="Progress Bar" />
+      <img height="35" src="https://progress-bar.dev//70/?width=400" alt="Progress Bar" />
     </td>
   </tr>
   <tr width="100%">
