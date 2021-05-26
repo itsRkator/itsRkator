@@ -280,9 +280,9 @@
   [![Rohitash Kator's Facebook Profile](https://img.shields.io/badge/facebook-itsRkator-1877f2?style=badge&logo=facebook)](https://facebook.com/itsRkator)
   [![Rohitash Kator's Twitter Profile](https://img.shields.io/badge/twitter-itsRkator-1da1f2?style=badge&logo=twitter)](https://twitter.com/itsRkator)
   [![Rohitash Kator's Instagram Profile](https://img.shields.io/badge/instagram-itsRkator-c32aa3?style=badge&logo=instagram)](https://instagram.com/itsRkator)
-<!--   ![](https://visitor-badge.glitch.me/badge?page_id=itsRkator.itsRkator) -->
-  <p align="left"><img src="https://komarev.com/ghpvc/?username=itsRkator&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Rohitash Kator" /></p>
+  ![](https://visitor-badge.glitch.me/badge?page_id=itsRkator.itsRkator)
+<!--   <p align="left"><img src="https://komarev.com/ghpvc/?username=itsRkator&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Rohitash Kator" /></p> -->
 
 
 ***
